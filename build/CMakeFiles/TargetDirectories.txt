@@ -1,0 +1,5 @@
+/home/li/PCL/kinect_class/build/CMakeFiles/package.dir
+/home/li/PCL/kinect_class/build/CMakeFiles/edit_cache.dir
+/home/li/PCL/kinect_class/build/CMakeFiles/package_source.dir
+/home/li/PCL/kinect_class/build/CMakeFiles/kinect2grabber.dir
+/home/li/PCL/kinect_class/build/CMakeFiles/rebuild_cache.dir
